@@ -5,8 +5,8 @@ desktop-color: "black"
 
 + boot_menu{
   top = 1100
-  left = 1218
-  width = 300
+  left = 1268
+  width = 700
   height = 500
   item_color = "#CCCCCC"
   item_font = "Ubuntu Regular 30"
