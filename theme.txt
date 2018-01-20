@@ -1,0 +1,32 @@
+title-text: ""
+title-color: "white"
+desktop-image: "background.png"
+desktop-color: "black"
+
++ boot_menu{
+  top = 1100
+  left = 1218
+  width = 300
+  height = 500
+  item_color = "#CCCCCC"
+  item_font = "Ubuntu Regular 30"
+  selected_item_color = "white"
+  item_height = 40
+  item_spacing = 10
+  icon_width = 0
+  item_padding = 0
+  scrollbar = false
+  align = "center"
+}
+
++ label{
+  top = 1600
+  left = 0
+  width = 2736
+  height = 100
+  id = "__timeout__"
+  color = "white"
+  font = "Ubuntu Regular 30"
+  align = "center"
+  text = "Autostart in %d Sekunden!"
+}
